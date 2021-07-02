@@ -31,12 +31,12 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rubenv/sql-migrate v0.0.0-20200616145509-8d140a17f351
 	github.com/sirupsen/logrus v1.7.0
-	github.com/spf13/cobra v1.1.1
+	github.com/spf13/cobra v1.2.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
 	github.com/xeipuuv/gojsonschema v1.2.0
 	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
-	golang.org/x/term v0.0.0-20201117132131-f5c789dd3221
+	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
 	k8s.io/api v0.20.2
 	k8s.io/apiextensions-apiserver v0.20.2
 	k8s.io/apimachinery v0.20.2
